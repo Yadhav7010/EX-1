@@ -26,27 +26,19 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
 ---
 ## Calculation
 
-The required amount of solute can be calculated using the formula:
+---
 
-\[
-W = N \times \text{Equivalent Weight} \times V
-\]
+## Formula
 
-###Formula
-\[
-W = N \times E \times L
-\]
+W = N*e*l
+
 
 Where:
 - **N** = Normality  
-- **E** = Equivalent weight  
-- **L** = Volume (in liters)  
+- **e** = Equivalent weight  
+- **l** = Volume (in liters)  
 
 ---
-
-### Note:
-- Ensure volume is converted into liters before calculation.
-- Use appropriate equivalent weight based on the chemical used.
 
 ## Procedure
 
