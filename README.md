@@ -24,6 +24,29 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
 - pH paper / pH meter  
 
 ---
+## Calculation
+
+The required amount of solute can be calculated using the formula:
+
+\[
+W = N \times \text{Equivalent Weight} \times V
+\]
+
+###Formula
+\[
+W = N \times E \times L
+\]
+
+Where:
+- **N** = Normality  
+- **E** = Equivalent weight  
+- **L** = Volume (in liters)  
+
+---
+
+### Note:
+- Ensure volume is converted into liters before calculation.
+- Use appropriate equivalent weight based on the chemical used.
 
 ## Procedure
 
@@ -54,6 +77,7 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
 ---
 ## Calculation
 
+---
 
 ## Result
 ZnO nanoparticles were successfully synthesized using the sol-gel method.
