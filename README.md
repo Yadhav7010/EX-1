@@ -23,10 +23,6 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
 - Thermometer  
 - pH paper / pH meter  
 
----
-## Calculation
-
----
 
 ## Formula
 
