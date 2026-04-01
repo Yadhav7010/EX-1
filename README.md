@@ -14,7 +14,7 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
 - **Reducing Agent:** Calcium carbonate (CaCO₃)  
 - **Surfactant:** Sodium dodecyl sulphate (SDS)  
 
-### Apparatus
+### Apparatus Required
 - Beaker  
 - Conical flask  
 - Measuring cylinder  
@@ -52,6 +52,8 @@ To synthesize zinc oxide (ZnO) nanoparticles using the sol-gel method.
    Heat the dried powder in a furnace at 400–600°C to obtain ZnO nanoparticles.
 
 ---
+## Calculation
+
 
 ## Result
 ZnO nanoparticles were successfully synthesized using the sol-gel method.
